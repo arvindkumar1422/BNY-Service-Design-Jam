@@ -1,0 +1,5 @@
+{
+  "name": "Titan Dashboard",
+  "description": "A master dashboard for automated support workflows, visualizing agent interactions, risk scoring, SLA monitoring, and team-specific alerts.",
+  "requestFramePermissions": []
+}
